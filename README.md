@@ -1,4 +1,4 @@
-# 📱 RakshaCast — AI-Powered Hyper-Local Disaster Early-Warning Android App
+RakshaCast — AI-Powered Hyper-Local Disaster Early-Warning Android App
 
 ![React Native](https://img.shields.io/badge/React_Native-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Capacitor-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -11,14 +11,14 @@
 
 ---
 
-## 🚀 1. Overview & Mobile Purpose
+### 1. Overview & Mobile Purpose
 **RakshaCast** is a complete, mobile-first Android application designed specifically for high-stress disaster emergencies. Engineered with large touch targets, high contrast, bottom-tab navigation, and instant 1-touch SOS beacons, RakshaCast executes the full disaster resilience lifecycle:
 
 $$\text{PREDICT} \longrightarrow \text{WARN} \longrightarrow \text{EVACUATE} \longrightarrow \text{RESCUE} \longrightarrow \text{RECOVER}$$
 
 ---
 
-## 📱 2. How to Open & Run the Mobile App
+### 2. How to Open & Run the Mobile App
 
 ### Clone the Repository
 ```bash
@@ -39,7 +39,7 @@ Open **`http://localhost:8080`** in Chrome / Safari with Mobile Device Mode enab
 
 ---
 
-## 🗺️ 3. Mobile Screens & Bottom Tabs
+##  3. Mobile Screens & Bottom Tabs
 1. **Home Screen**:
    - Live IMD Doppler radar weather telemetry (Rainfall intensity, surge water level, wind gusts, humidity, pressure).
    - Prominent **Risk Level Card** with lead time countdown and recommended action.
@@ -63,7 +63,7 @@ Open **`http://localhost:8080`** in Chrome / Safari with Mobile Device Mode enab
 
 ---
 
-## 📦 4. React Native & Expo APK Build Instructions
+## 4. React Native & Expo APK Build Instructions
 To compile as a native Android APK:
 1. Initialize EAS Build:
    ```bash
@@ -76,14 +76,6 @@ To compile as a native Android APK:
    ```
 
 ---
-
-## 👤 Author
-
-**Vedasri Peddapeta**
-- GitHub: [@Vedasri-Peddapeta](https://github.com/Vedasri-Peddapeta)
-
----
-
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
